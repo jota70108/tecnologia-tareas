@@ -1,0 +1,87 @@
+.jefe{
+position: absolute;
+top: 160px;
+left: 150px;
+width: 1000px;
+height: 1000px;
+background: aquamarine;
+}
+.coronel{
+	position: absolute;
+	top:80px;
+	left:20px;
+	width:450px;
+	height:600px;
+	background:skyblue;
+}
+.cabo{
+	position: absolute;
+	top:80px;
+	left:530px;
+	width:450px;
+	height:600px;
+	background:white;
+}
+.soldado{
+	position: absolute;
+	top:10px;
+	left:375px;
+	width:300px;
+	height:40px;
+	background:green;
+}
+.textoone{
+position: absolute;
+top: 15px;
+left: 115px;
+color: black;
+}
+.textotwo{
+	position: absolute;
+	top: 55px;
+	left: 35px;
+	color: black;
+}
+.fotico{
+	position: absolute;
+	top: 225px;
+	left: 50px;
+	width: 325px;
+	height: 350px;
+	background: url("arbolito.jpg");
+}
+.titulito{
+position: absolute;
+top: 15px;
+left: 115px;
+color: red;
+}
+.pinito{
+	position: absolute;
+top: 75px;
+left: 50px;
+color: skyblue;
+}
+.fotito2{
+	position: absolute;
+	top: 305px;
+	left: 5px;
+	width: 225px;
+	height: 200px;
+	background: url("pino1.jpg	");	
+}
+.fotito3{
+	position: absolute;
+	top: 305px;
+	left: 255px;
+	width: 180px;
+	height: 200px;
+	background: url("pino2.jpg	");	
+}
+.botonatras{
+position: absolute;
+top: 800px;
+left: 300px;
+width
+height
+	}
