@@ -1,0 +1,176 @@
+.padre{
+	position: absolute;
+	top: 20px;
+	left: 100px;
+height: 1000px;
+width: 1000px;
+background: white;
+border: solid;
+}
+
+.madre{
+	font-family: contesta;
+	position: absolute;
+	top: 420px;
+left: 120px;
+height: 407px;
+width:420px;
+font-size:40px;
+border: solid;
+background:url(fotoreal2.jpg);
+ }
+
+@font-face {
+  font-family: contesta;
+  src: url(segundo.ttf);
+  font-size:900px;
+  
+}
+.titulito{
+	font-family: yatontestaste;
+position: absolute;
+top: 30px;
+left: 170px;
+height: 30px;
+width: 80px; 
+font-size: 20px;
+border: solid;
+background: rgba(20, 300, 123 ,0.3);
+}
+@font-face {
+  font-family: yatontestaste;
+  src: url(educate.otf);
+}
+.hijo{
+	position: absolute;
+	top: 80px;
+	left: 400px;
+	height: 100px;
+	width: 400px;
+	background: url(fotoreal2.jpg);
+	border: solid ;
+}
+.dentromama{
+	position: absolute;
+	top: 10px;
+	left: 130px;
+	height: 100px;
+	width:50px;
+}
+.mamita{
+	position: absolute;
+	top: 120px;
+	left: 20px;
+	height: 214px;
+	width: 300px;
+	border: solid;
+}
+@font-face {
+  font-family: mami;
+  src: url(letra.ttf);
+}
+.mamitaentro{
+	position: absolute;
+	font-family: mami;
+	top: 23px;
+	left: 5px;
+	background: rgba(232,420,30,0.2);
+	font-size: 20px;
+border: solid;
+}
+.hermano{
+	position: absolute;
+	top: 430px;
+	left: 670px;
+	height: 390px;
+	width: 370px;
+	border: solid;
+	background: rgba(100,760,223,0.6);
+}
+.papito{
+position: absolute;
+top: 30px;
+left: 20px;
+height: 100px;
+width: 115px;
+background: gray;
+border:solid white;
+ }
+ .hermanito{
+position: absolute;
+top: 30px;
+left: 240px;
+height: 100px;
+width: 115px;
+background: yellow;
+border:solid red;
+ }
+ .ricardo{
+position: absolute;
+top: 260px;
+left: 240px;
+height: 100px;
+width: 115px;
+background: red;
+border:solid green;
+ }
+  .alvaro{
+position: absolute;
+top: 260px;
+left: 20px;
+height: 100px;
+width: 115px;
+background: green;
+border:solid black;
+ }
+@font-face {
+  font-family: estilo1;
+  src: url(cubito.ttf);
+}
+.clase1{
+	position: absolute;
+	font-family: estilo1;
+	top: 13px;
+	left: 1px;
+}
+@font-face {
+  font-family: estilo2;
+  src: url(sexto.otf);
+}
+.clase2{
+	position: absolute;
+	font-family: estilo2;
+	top: 30px;
+	left: 7px;
+}
+@font-face {
+  font-family: estilo3;
+  src: url(normal.ttf);
+}
+.clase3{
+	position: absolute;
+	font-family: estilo3;
+	top: 10px;
+	left: 7px;
+}
+@font-face {
+  font-family: estilo4;
+  src: url(vintage.otf);
+}
+.clase4{
+	position: absolute;
+	font-family: estilo4;
+	top: 20px;
+	left: 16px;
+}
+@font-face {
+  font-family: estilo5;
+  src: url(personal.otf);
+}
+.clase5{
+	position: absolute;
+	font-family: estilo5;
+	top: 180px;
+	left: 110px;
+	border: solid blue;
+}
